@@ -75,6 +75,10 @@
 .header li:hover{
     background-color:rgb(31, 89, 97);
 }
+a{
+    color: white;
+    text-decoration: none; 
+}
 .block1_left{
     margin-top: 50px;
     width:50%;
